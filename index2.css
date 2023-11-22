@@ -1,0 +1,15 @@
+th {
+    background-color: blanchedalmond;
+    Border: 2px solid orange;
+    font-size: 1.4em;
+}
+
+td {
+    background-color: beige;
+    Border: 2px solid orange;
+}
+
+table {
+    Border: 2px solid orange;
+    border-collapse: collapse;
+}
